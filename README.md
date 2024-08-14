@@ -1,6 +1,6 @@
 # qr_scanner
 
-A mini test for Android app scans QR Code backed with MongoDB and Flask.
+A mini demo for Android app scans QR Code backed with MongoDB and Flask.
 
 # Establish apk verion
 
