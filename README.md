@@ -2,7 +2,7 @@
 
 A mini demo for Android app scans QR Code backed with MongoDB and Flask.
 
-# Establish apk verion
+# Establish apk version
 
 Use flutter build apk --release for better run and avoid janking during navigation.
 
